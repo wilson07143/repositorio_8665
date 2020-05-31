@@ -1,0 +1,8 @@
+Conclusiones de la herramienta Git
+Esta herramienta es muy importante en la creación y edición de sistemas,
+ya que nos permite poder crear capturas de nuestra programación según las versiones que vayamos avanzando,
+además de poder tener un control adecuado de estas,
+con lo cual si en algún momento necesitamos revisar una versión anterior podremos hacerlo sin complicación,
+esto también se puede realizar de una forma globalizada,
+subiendo nuestros datos a Git-hub ,
+el cual nos permitirá colaborar con personas de todo el mundo sin que nuestros datos originales se vean alterados.
